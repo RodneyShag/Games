@@ -290,10 +290,11 @@
 
 ### Other
 
-| Game                                                 | Year |  System  |                          Video                          |                                 Genre                                |
-|------------------------------------------------------|:----:|:--------:|:-------------------------------------------------------:|:--------------------------------------------------------------------:|
-| [Pacman](https://en.wikipedia.org/wiki/Pac-Man)      | 1980 |    PC    | [Gameplay](https://www.youtube.com/watch?v=dScq4P5gn4A) |    [Maze](https://en.wikipedia.org/wiki/List_of_maze_video_games)    |
-| [Duck Hunt](https://en.wikipedia.org/wiki/Duck_Hunt) | 1984 | Nintendo | [Longplay](https://www.youtube.com/watch?v=jBDNsaWiT8Q) | [Light Gun Shooter](https://en.wikipedia.org/wiki/Light_gun_shooter) |
+| Game                                                        | Year |  System  |                          Video                          |                                                                   Genre                                                                   |
+|-------------------------------------------------------------|:----:|:--------:|:-------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
+| [Pacman](https://en.wikipedia.org/wiki/Pac-Man)             | 1980 |    PC    | [Gameplay](https://www.youtube.com/watch?v=dScq4P5gn4A) |                                       [Maze](https://en.wikipedia.org/wiki/List_of_maze_video_games)                                      |
+| [Duck Hunt](https://en.wikipedia.org/wiki/Duck_Hunt)        | 1984 | Nintendo | [Longplay](https://www.youtube.com/watch?v=jBDNsaWiT8Q) |                                    [Light Gun Shooter](https://en.wikipedia.org/wiki/Light_gun_shooter)                                   |
+| [Pokemon Go](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go) | 2016 |  Mobile  | [Gameplay](https://www.youtube.com/watch?v=F9u81_vytOI) | [Augmented Reality](https://en.wikipedia.org/wiki/Augmented_reality), [Location-based](https://en.wikipedia.org/wiki/Location-based_game) |
 
 
 ### Unplayed
