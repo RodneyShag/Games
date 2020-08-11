@@ -2,6 +2,12 @@
     <img src="images/nesController.jpg">
 </p>
 
+### Summary
+
+- This repo is a list of all games I can remember playing
+- My most favorite genres show up at the top. In a genre, games are sorted by year (ascending)
+
+### Table of Contents
 
 - [Real-time strategy](#real-time-strategy)
 - [Turn-based strategy](#turn-based-strategy)
