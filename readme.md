@@ -1,20 +1,25 @@
+<p align="center">
+    <img src="images/nesController.jpg">
+</p>
+
+
 - [Real-time strategy](#real-time-strategy)
 - [Turn-based strategy](#turn-based-strategy)
 - [Action-adventure](#action-adventure)
-- [Role-playing](#role-playing)
 - [Fighting](#fighting)
 - [Tower Defense](#tower-defense)
 - [Simulation](#simulation)
 - [Beat 'em up](#beat-em-up)
-- [MMO)](#mmo)
+- [MMO](#mmo)
 - [1st-person shooter](#1st-person-shooter)
 - [Puzzle](#puzzle)
-- [Card](#card)
+- [Cards](#cards)
 - [Board](#board)
 - [Music](#music)
 - [Platform](#platform)
 - [Shoot 'em up](#shoot-em-up)
 - [Sports](#sports)
+- [Role-playing](#role-playing)
 - [Party](#party)
 - [Snake](#snake)
 - [Racing](#racing)
@@ -43,21 +48,14 @@
 
 | Game                                                                                         | Year |       System      |                          Video                          |                                  Genre                                  |
 |----------------------------------------------------------------------------------------------|:----:|:-----------------:|:-------------------------------------------------------:|:-----------------------------------------------------------------------:|
-| [Treasure Mountain!](https://en.wikipedia.org/wiki/Treasure_Mountain!)                       | 1990 |         PC        | [Longplay](https://www.youtube.com/watch?v=9AlFhNsLY1E) |        [Adventure](https://en.wikipedia.org/wiki/Adventure_game)        |
+| [Prince of Persia](https://en.wikipedia.org/wiki/Prince_of_Persia)                           | 1989 |    Sega Genesis   | [Longplay](https://www.youtube.com/watch?v=JDeIWfz_EM4) | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
+| [Treasure Mountain](https://en.wikipedia.org/wiki/Treasure_Mountain!)                        | 1990 |         PC        | [Longplay](https://www.youtube.com/watch?v=9AlFhNsLY1E) |        [Adventure](https://en.wikipedia.org/wiki/Adventure_game)        |
 | [Wonder Boy in Monster World](https://en.wikipedia.org/wiki/Wonder_Boy_in_Monster_World)     | 1992 |    Sega Genesis   | [Longplay](https://www.youtube.com/watch?v=8VDaPFiLbAM) | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
-| [Pirates! Gold](https://en.wikipedia.org/wiki/Sid_Meier%27s_Pirates!#Release_history)        | 1993 |    Sega Genesis   | [Longplay](https://www.youtube.com/watch?v=2wGmBlkVvZM) | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
+| [Pirates Gold](https://en.wikipedia.org/wiki/Sid_Meier%27s_Pirates!#Release_history)         | 1993 |    Sega Genesis   | [Longplay](https://www.youtube.com/watch?v=2wGmBlkVvZM) | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
 | [Zelda: Ocarina of Time](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time) | 1998 |    Nintendo 64    | [Longplay](https://www.youtube.com/watch?v=_KO2a83jfas) | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
 | [Shenmue](https://en.wikipedia.org/wiki/Shenmue)                                             | 1999 |     Dreamcast     | [Longplay](https://www.youtube.com/watch?v=W8RpDgxAyKI) | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
 | [Luigi's Mansion](https://en.wikipedia.org/wiki/Luigi%27s_Mansion)                           | 2001 | Nintendo GameCube | [Longplay](https://www.youtube.com/watch?v=9bWePif7psc) | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
 | [The Lab](https://en.wikipedia.org/wiki/The_Lab_%28video_game%29)                            | 2016 |         VR        | [Gameplay](https://www.youtube.com/watch?v=yWgbGAx3P-M) |           [Action](https://en.wikipedia.org/wiki/Action_game)           |
-
-
-### Role-playing
-
-| Game                                                              | Year | System |                          Video                          |                                                                 Genre                                                                 |
-|-------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-| [Diablo 1](https://en.wikipedia.org/wiki/Diablo_%28video_game%29) | 1997 |   PC   | [Longplay](https://www.youtube.com/watch?v=lHV7VnWvz_o) | [Action RPG](https://en.wikipedia.org/wiki/Action_role-playing_game) - [Hack and slash](https://en.wikipedia.org/wiki/Hack_and_slash) |
-| [Diablo 2](https://en.wikipedia.org/wiki/Diablo_II)               | 2000 |   PC   | [Longplay](https://www.youtube.com/watch?v=65cXaAmBgEE) | [Action RPG](https://en.wikipedia.org/wiki/Action_role-playing_game) - [Hack and slash](https://en.wikipedia.org/wiki/Hack_and_slash) |
 
 
 ### Fighting
@@ -149,18 +147,17 @@
 
 ### Cards
 
-| Game                                                                       |                                Year                               | System |                              Video                             |                                                 Genre                                                |
-|----------------------------------------------------------------------------|:-----------------------------------------------------------------:|:------:|:--------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
-| [Blackjack](https://en.wikipedia.org/wiki/Blackjack)                       |      [1601](https://en.wikipedia.org/wiki/Blackjack#History)      |  Cards |      [Rules](https://www.youtube.com/watch?v=eyoh-Ku9TCI)      |                           [Cards](https://en.wikipedia.org/wiki/Card_game)                           |
-| [Pasur](https://en.wikipedia.org/wiki/Pasur_%28card_game%29)               | [1850](https://en.wikipedia.org/wiki/Pasur_(card_game)#Etymology) |  Cards | [Rules](https://en.wikipedia.org/wiki/Pasur_(card_game)#Rules) |                           [Cards](https://en.wikipedia.org/wiki/Card_game)                           |
-| [Texas Hold 'Em](https://en.wikipedia.org/wiki/Texas_hold_%27em)           |      [1906](https://www.quora.com/Who-invented-Texas-Hold-em)     |  Cards |      [Rules](https://www.youtube.com/watch?v=v8dqu_aVQk8)      |                           [Cards](https://en.wikipedia.org/wiki/Card_game)                           |
-| [Uno](https://en.wikipedia.org/wiki/Uno_%28card_game%29)                   |                                1971                               |  Cards |      [Rules](https://www.youtube.com/watch?v=dicgjskLVJc)      |                           [Cards](https://en.wikipedia.org/wiki/Card_game)                           |
-| [Kemps](https://en.wikipedia.org/wiki/Kemps_%28card_game%29)               |                                 ?                                 |  Cards |      [Rules](https://www.youtube.com/watch?v=FHuIcGzNgYg)      | [Cards](https://en.wikipedia.org/wiki/Card_game) - [Party](https://en.wikipedia.org/wiki/Party_game) |
-| [Microsoft Solitaire](https://en.wikipedia.org/wiki/Microsoft_Solitaire)   |                                1990                               |   PC   |     [Longplay](https://www.youtube.com/watch?v=fJWyWJXWTkc)    |                           [Cards](https://en.wikipedia.org/wiki/Card_game)                           |
-| [Magic: The Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering) |                                1993                               |   PC   |      [Rules](https://www.youtube.com/watch?v=DCVGwmCtRwA)      |                           [Cards](https://en.wikipedia.org/wiki/Card_game)                           |
-| [Dominion](https://en.wikipedia.org/wiki/Dominion_%28card_game%29)         |                                2008                               |   PC   |      [Rules](https://www.youtube.com/watch?v=5jNGpgdMums)      |                           [Cards](https://en.wikipedia.org/wiki/Card_game)                           |
-| [Ultimate Werewolf](https://en.wikipedia.org/wiki/Ultimate_Werewolf)       |                                2008                               |  Cards |      [Rules](https://www.youtube.com/watch?v=XsP6LvZQpLk)      | [Cards](https://en.wikipedia.org/wiki/Card_game) - [Party](https://en.wikipedia.org/wiki/Party_game) |
-| [Hearthstone](https://en.wikipedia.org/wiki/Hearthstone)                   |                                2014                               |   PC   |     [Gameplay](https://www.youtube.com/watch?v=ymuVLuVlsOU)    |                           [Cards](https://en.wikipedia.org/wiki/Card_game)                           |
+| Game                                                                       |                                Year                               | System |                              Video                             |                       Genre                      |
+|----------------------------------------------------------------------------|:-----------------------------------------------------------------:|:------:|:--------------------------------------------------------------:|:------------------------------------------------:|
+| [Blackjack](https://en.wikipedia.org/wiki/Blackjack)                       |      [1601](https://en.wikipedia.org/wiki/Blackjack#History)      |  Cards |      [Rules](https://www.youtube.com/watch?v=eyoh-Ku9TCI)      | [Cards](https://en.wikipedia.org/wiki/Card_game) |
+| [Pasur](https://en.wikipedia.org/wiki/Pasur_%28card_game%29)               | [1850](https://en.wikipedia.org/wiki/Pasur_(card_game)#Etymology) |  Cards | [Rules](https://en.wikipedia.org/wiki/Pasur_(card_game)#Rules) | [Cards](https://en.wikipedia.org/wiki/Card_game) |
+| [Texas Hold 'Em](https://en.wikipedia.org/wiki/Texas_hold_%27em)           |      [1906](https://www.quora.com/Who-invented-Texas-Hold-em)     |  Cards |      [Rules](https://www.youtube.com/watch?v=v8dqu_aVQk8)      | [Cards](https://en.wikipedia.org/wiki/Card_game) |
+| [Uno](https://en.wikipedia.org/wiki/Uno_%28card_game%29)                   |                                1971                               |  Cards |      [Rules](https://www.youtube.com/watch?v=dicgjskLVJc)      | [Cards](https://en.wikipedia.org/wiki/Card_game) |
+| [Kemps](https://en.wikipedia.org/wiki/Kemps_%28card_game%29)               |                                 ?                                 |  Cards |      [Rules](https://www.youtube.com/watch?v=FHuIcGzNgYg)      | [Cards](https://en.wikipedia.org/wiki/Card_game) |
+| [Microsoft Solitaire](https://en.wikipedia.org/wiki/Microsoft_Solitaire)   |                                1990                               |   PC   |     [Longplay](https://www.youtube.com/watch?v=fJWyWJXWTkc)    | [Cards](https://en.wikipedia.org/wiki/Card_game) |
+| [Magic: The Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering) |                                1993                               |   PC   |      [Rules](https://www.youtube.com/watch?v=DCVGwmCtRwA)      | [Cards](https://en.wikipedia.org/wiki/Card_game) |
+| [Dominion](https://en.wikipedia.org/wiki/Dominion_%28card_game%29)         |                                2008                               |   PC   |      [Rules](https://www.youtube.com/watch?v=5jNGpgdMums)      | [Cards](https://en.wikipedia.org/wiki/Card_game) |
+| [Hearthstone](https://en.wikipedia.org/wiki/Hearthstone)                   |                                2014                               |   PC   |     [Gameplay](https://www.youtube.com/watch?v=ymuVLuVlsOU)    | [Cards](https://en.wikipedia.org/wiki/Card_game) |
 
 
 ### Board
@@ -169,7 +166,7 @@
 |---------------------------------------------------------------------------|:---------------------------------------------------------------:|:------:|:-------------------------------------------------------:|:-------------------------------------------------:|
 | [Checkers](https://en.wikipedia.org/wiki/Draughts)                        |     [-3000](https://en.wikipedia.org/wiki/Draughts#History)     |  Board |   [Rules](https://www.youtube.com/watch?v=MOW9k_C4vFU)  | [Board](https://en.wikipedia.org/wiki/Board_game) |
 | [Chess](https://en.wikipedia.org/wiki/Chess)                              |        [280](https://en.wikipedia.org/wiki/Chess#History)       |  Board |   [Rules](https://www.youtube.com/watch?v=NAIQyoPcjNM)  | [Board](https://en.wikipedia.org/wiki/Board_game) |
-| [Battleship](https://en.wikipedia.org/wiki/Battleship_(game))             | [1931](https://en.wikipedia.org/wiki/Battleship_(game)#History) |  Board |   [Rules]https://www.youtube.com/watch?v=q0qpQ8doUp8()  | [Board](https://en.wikipedia.org/wiki/Board_game) |
+| [Battleship](https://en.wikipedia.org/wiki/Battleship_%28game%29)         | [1931](https://en.wikipedia.org/wiki/Battleship_(game)#History) |  Board |   [Rules](https://www.youtube.com/watch?v=q0qpQ8doUp8)  | [Board](https://en.wikipedia.org/wiki/Board_game) |
 | [Monopoly](https://en.wikipedia.org/wiki/Monopoly_%28game%29)             |                               1935                              |   PC   |   [Rules](https://www.youtube.com/watch?v=AuWvMgYv03g)  | [Board](https://en.wikipedia.org/wiki/Board_game) |
 | [Mastmermind](https://en.wikipedia.org/wiki/Mastermind_%28board_game%29)  |                               1970                              |  Board |   [Rules](https://www.youtube.com/watch?v=wsYPsrzCKiA)  | [Board](https://en.wikipedia.org/wiki/Board_game) |
 | [Othello](https://en.wikipedia.org/wiki/Reversi)                          |                               1971                              |  Board |   [Rules](https://www.youtube.com/watch?v=Ol3Id7xYsY4)  | [Board](https://en.wikipedia.org/wiki/Board_game) |
@@ -200,7 +197,6 @@
 | [Super Mario 1](https://en.wikipedia.org/wiki/Super_Mario_Bros.)                                                | 1985 |      Nintendo     | [Longplay](https://www.youtube.com/watch?v=7qirrV8w5SQ) |                                            [Platform](https://en.wikipedia.org/wiki/Platform_game)                                            |
 | [Super Mario 2](https://en.wikipedia.org/wiki/Super_Mario_Bros._2)                                              | 1988 |      Nintendo     | [Longplay](https://www.youtube.com/watch?v=Izc1yLUxPIw) |                                            [Platform](https://en.wikipedia.org/wiki/Platform_game)                                            |
 | [Super Mario 3](https://en.wikipedia.org/wiki/Super_Mario_Bros._3)                                              | 1989 |      Nintendo     | [Longplay](https://www.youtube.com/watch?v=c2LTcQwmOV4) |                                            [Platform](https://en.wikipedia.org/wiki/Platform_game)                                            |
-| [Prince of Persia](https://en.wikipedia.org/wiki/Prince_of_Persia)                                              | 1989 |    Sega Genesis   | [Longplay](https://www.youtube.com/watch?v=JDeIWfz_EM4) |                                            [Platform](https://en.wikipedia.org/wiki/Platform_game)                                            |
 | [Teenage Mutant Ninja Turtles](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_%28NES_video_game%29) | 1989 |      Nintendo     | [Longplay](https://www.youtube.com/watch?v=LRg-yK-O1t0) |                                            [Platform](https://en.wikipedia.org/wiki/Platform_game)                                            |
 | [Astyanax](https://en.wikipedia.org/wiki/The_Astyanax)                                                          | 1990 |      Nintendo     | [Longplay](https://www.youtube.com/watch?v=Yt2CU8H7BMI) |                                            [Platform](https://en.wikipedia.org/wiki/Platform_game)                                            |
 | [Joe and Mac](https://en.wikipedia.org/wiki/Joe_%26_Mac)                                                        | 1991 |    Sega Genesis   | [Longplay](https://www.youtube.com/watch?v=zUSKTgYQJZ4) |                                            [Platform](https://en.wikipedia.org/wiki/Platform_game)                                            |
@@ -236,15 +232,23 @@
 
 ### Sports
 
-| Game                                                                                                         | Year |       System      |                          Video                          |                                                     Genre                                                    |
-|--------------------------------------------------------------------------------------------------------------|:----:|:-----------------:|:-------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
-| [Punch Out!!](https://en.wikipedia.org/wiki/Punch-Out!!_%28NES%29)                                           | 1987 |      Nintendo     | [Longplay](https://www.youtube.com/watch?v=rcJneBFV9cI) |     [Sports](https://en.wikipedia.org/wiki/Sports_game) - [Boxing](https://en.wikipedia.org/wiki/Boxing)     |
-| [Hoops](https://en.wikipedia.org/wiki/Hoops_%28video_game%29)                                                | 1989 |      Nintendo     | [Gameplay](https://www.youtube.com/watch?v=-FX_YAFQhdg) | [Sports](https://en.wikipedia.org/wiki/Sports_game) - [Basketball](https://en.wikipedia.org/wiki/Basketball) |
-| [SkiFree](https://en.wikipedia.org/wiki/SkiFree)                                                             | 1991 |         PC        | [Longplay](https://www.youtube.com/watch?v=Vj8NRq4IUDY) |     [Sports](https://en.wikipedia.org/wiki/Sports_game) - [Skiing](https://en.wikipedia.org/wiki/Skiing)     |
-| [Fuji Golf](https://en.wikipedia.org/wiki/Golf)](https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack) | 1991 |         PC        | [Longplay](https://www.youtube.com/watch?v=tDKKIskVodE) |       [Sports](https://en.wikipedia.org/wiki/Sports_game) - [Golf](https://en.wikipedia.org/wiki/Golf)       |
-| [NBA 2K](https://en.wikipedia.org/wiki/NBA_2K_%28video_game%29)                                              | 1999 |     Dreamcast     | [Gameplay](https://www.youtube.com/watch?v=5yXpkhpyaic) | [Sports](https://en.wikipedia.org/wiki/Sports_game) - [Basketball](https://en.wikipedia.org/wiki/Basketball) |
-| [Fight Night](https://en.wikipedia.org/wiki/Fight_Night_2004)                                                | 2004 | Nintendo GameCube | [Longplay](https://www.youtube.com/watch?v=-SAXf2iJhm4) |     [Sports](https://en.wikipedia.org/wiki/Sports_game) - [Boxing](https://en.wikipedia.org/wiki/Boxing)     |
-| [Knockout League](https://store.steampowered.com/app/488920/Knockout_League__Arcade_VR_Boxing)               | 2018 |         VR        | [Gameplay](https://www.youtube.com/watch?v=KDge8XnXtNY) |     [Sports](https://en.wikipedia.org/wiki/Sports_game) - [Boxing](https://en.wikipedia.org/wiki/Boxing)     |
+| Game                                                                                           | Year |       System      |                          Video                          |                                                     Genre                                                    |
+|------------------------------------------------------------------------------------------------|:----:|:-----------------:|:-------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
+| [Punch Out](https://en.wikipedia.org/wiki/Punch-Out!!_%28NES%29)                               | 1987 |      Nintendo     | [Longplay](https://www.youtube.com/watch?v=rcJneBFV9cI) |     [Sports](https://en.wikipedia.org/wiki/Sports_game) - [Boxing](https://en.wikipedia.org/wiki/Boxing)     |
+| [Hoops](https://en.wikipedia.org/wiki/Hoops_%28video_game%29)                                  | 1989 |      Nintendo     | [Gameplay](https://www.youtube.com/watch?v=-FX_YAFQhdg) | [Sports](https://en.wikipedia.org/wiki/Sports_game) - [Basketball](https://en.wikipedia.org/wiki/Basketball) |
+| [SkiFree](https://en.wikipedia.org/wiki/SkiFree)                                               | 1991 |         PC        | [Longplay](https://www.youtube.com/watch?v=Vj8NRq4IUDY) |     [Sports](https://en.wikipedia.org/wiki/Sports_game) - [Skiing](https://en.wikipedia.org/wiki/Skiing)     |
+| [Fuji Golf](https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack)                        | 1991 |         PC        | [Longplay](https://www.youtube.com/watch?v=tDKKIskVodE) |       [Sports](https://en.wikipedia.org/wiki/Sports_game) - [Golf](https://en.wikipedia.org/wiki/Golf)       |
+| [NBA 2K](https://en.wikipedia.org/wiki/NBA_2K_%28video_game%29)                                | 1999 |     Dreamcast     | [Gameplay](https://www.youtube.com/watch?v=5yXpkhpyaic) | [Sports](https://en.wikipedia.org/wiki/Sports_game) - [Basketball](https://en.wikipedia.org/wiki/Basketball) |
+| [Fight Night](https://en.wikipedia.org/wiki/Fight_Night_2004)                                  | 2004 | Nintendo GameCube | [Longplay](https://www.youtube.com/watch?v=-SAXf2iJhm4) |     [Sports](https://en.wikipedia.org/wiki/Sports_game) - [Boxing](https://en.wikipedia.org/wiki/Boxing)     |
+| [Knockout League](https://store.steampowered.com/app/488920/Knockout_League__Arcade_VR_Boxing) | 2018 |         VR        | [Gameplay](https://www.youtube.com/watch?v=KDge8XnXtNY) |     [Sports](https://en.wikipedia.org/wiki/Sports_game) - [Boxing](https://en.wikipedia.org/wiki/Boxing)     |
+
+
+### Role-playing
+
+| Game                                                              | Year | System |                          Video                          |                                                                 Genre                                                                 |
+|-------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
+| [Diablo 1](https://en.wikipedia.org/wiki/Diablo_%28video_game%29) | 1997 |   PC   | [Longplay](https://www.youtube.com/watch?v=lHV7VnWvz_o) | [Action RPG](https://en.wikipedia.org/wiki/Action_role-playing_game) - [Hack and slash](https://en.wikipedia.org/wiki/Hack_and_slash) |
+| [Diablo 2](https://en.wikipedia.org/wiki/Diablo_II)               | 2000 |   PC   | [Longplay](https://www.youtube.com/watch?v=65cXaAmBgEE) | [Action RPG](https://en.wikipedia.org/wiki/Action_role-playing_game) - [Hack and slash](https://en.wikipedia.org/wiki/Hack_and_slash) |
 
 
 ### Party
@@ -253,6 +257,7 @@
 |---------------------------------------------------------------------------------|:----:|:-----------:|:-----------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
 | [Mario Party](https://en.wikipedia.org/wiki/Mario_Party#Mario_Party_%281998%29) | 1998 | Nintendo 64 |                     [Longplay](https://www.youtube.com/watch?v=DmLrA8K6ckk)                     |                           [Party](https://en.wikipedia.org/wiki/Party_game)                          |
 | [Mafia](https://en.wikipedia.org/wiki/Mafia_%28party_game%29)                   | 1986 |    Cards    |                       [Rules](https://www.youtube.com/watch?v=vwJaNNV5KTE)                      | [Cards](https://en.wikipedia.org/wiki/Card_game) - [Party](https://en.wikipedia.org/wiki/Party_game) |
+| [Ultimate Werewolf](https://en.wikipedia.org/wiki/Ultimate_Werewolf)            | 2008 |    Cards    |                       [Rules](https://www.youtube.com/watch?v=XsP6LvZQpLk)                      | [Cards](https://en.wikipedia.org/wiki/Card_game) - [Party](https://en.wikipedia.org/wiki/Party_game) |
 | [Jackbox](https://en.wikipedia.org/wiki/The_Jackbox_Party_Pack)                 | 2014 |    Mobile   | [Gameplay](https://www.youtube.com/watch?v=1NKxZPyw_CA&list=PLVPoW6MMMV_YsV4P4eQq8MzPTmq_d2TMX) |                           [Party](https://en.wikipedia.org/wiki/Party_game)                          |
 
 
