@@ -31,7 +31,7 @@
 - [Racing](#racing)
 - [Probability](#probability)
 - [Other](#other)
-- [Unplayed - MOBA](#unplayed-moba)
+- [Unplayed MOBA](#unplayed-moba)
 - [Unplayed](#unplayed)
 
 ### Real-time strategy
@@ -333,7 +333,7 @@
 | [Pokemon Go](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)           | 2016 |  Mobile  | [Gameplay](https://www.youtube.com/watch?v=F9u81_vytOI) | [Augmented Reality](https://en.wikipedia.org/wiki/Augmented_reality), [Location-based](https://en.wikipedia.org/wiki/Location-based_game) |
 
 
-### Unplayed - MOBA
+### Unplayed MOBA
 
 | Game                                                                     | Year | System |                          Video                          |                                 Genre                                 |
 |--------------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:---------------------------------------------------------------------:|
