@@ -31,6 +31,7 @@
 - [Racing](#racing)
 - [Probability](#probability)
 - [Other](#other)
+- [Unplayed - MOBA](#unplayed-moba)
 - [Unplayed](#unplayed)
 
 ### Real-time strategy
@@ -332,17 +333,25 @@
 | [Pokemon Go](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)           | 2016 |  Mobile  | [Gameplay](https://www.youtube.com/watch?v=F9u81_vytOI) | [Augmented Reality](https://en.wikipedia.org/wiki/Augmented_reality), [Location-based](https://en.wikipedia.org/wiki/Location-based_game) |
 
 
+### Unplayed - MOBA
+
+| Game                                                                     | Year | System |                          Video                          |                                 Genre                                 |
+|--------------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:---------------------------------------------------------------------:|
+| [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends)     | 2009 |   PC   | [Gameplay](https://www.youtube.com/watch?v=fJVQNAEfaNM) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
+| [Defense of the Ancients (DOTA) 2](https://en.wikipedia.org/wiki/Dota_2) | 2013 |   PC   | [Gameplay](https://www.youtube.com/watch?v=jUrQRnkSXzE) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
+| [Smite](https://en.wikipedia.org/wiki/Smite_%28video_game%29)            | 2014 |   PC   | [Gameplay](https://www.youtube.com/watch?v=2g-7H7AGFno) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
+| [Heroes of the Storm](https://en.wikipedia.org/wiki/Heroes_of_the_Storm) | 2015 |   PC   | [Gameplay](https://www.youtube.com/watch?v=k0Oaf7EfOXQ) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
+
+
 ### Unplayed
 
 | Game                                                                                           | Year | System |                            Video                           |                                                                      Genre                                                                      |
 |------------------------------------------------------------------------------------------------|:----:|:------:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
-| [World of Warcraft](https://en.wikipedia.org/wiki/World_of_Warcraft)                           | 2004 |   PC   |   [Gameplay](https://www.youtube.com/watch?v=nN8ZBSObdQQ)  |                             [MMO RPG](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game)                             |
-| [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends)                           | 2009 |   PC   |   [Gameplay](https://www.youtube.com/watch?v=fJVQNAEfaNM)  |                                      [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena)                                      |
 | [Minecraft](https://en.wikipedia.org/wiki/Minecraft)                                           | 2011 |   PC   |   [Longplay](https://www.youtube.com/watch?v=n9OU5XBXnfo)  |                                              [Sandbox](https://en.wikipedia.org/wiki/Sandbox_game)                                              |
-| [Defense of the Ancients (DOTA) 2](https://en.wikipedia.org/wiki/Dota_2)                       | 2013 |   PC   |   [Gameplay](https://www.youtube.com/watch?v=jUrQRnkSXzE)  |                                      [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena)                                      |
 | [PlayerUnknown's Battlegrounds](https://en.wikipedia.org/wiki/PlayerUnknown%27s_Battlegrounds) | 2017 |   PC   | [4K Gameplay](https://www.youtube.com/watch?v=bZUcLjQjFMc) |                                        [Battle Royale](https://en.wikipedia.org/wiki/Battle_royale_game)                                        |
 | [Tom Clancy's The Division 2](https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division_2)     | 2019 |   PC   | [4K Gameplay](https://www.youtube.com/watch?v=etDK0-_zJQw) | [Action RPG](https://en.wikipedia.org/wiki/Action_role-playing_game) - [3rd-person shooter](https://en.wikipedia.org/wiki/Third-person_shooter) |
 | [Red Dead Redemption 2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2)                   | 2019 |   PC   | [4K Gameplay](https://www.youtube.com/watch?v=lM-06ehsAu8) |                                     [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game)                                     |
 | [Doom Eternal](https://en.wikipedia.org/wiki/Doom_Eternal)                                     | 2020 |   PC   | [4K Gameplay](https://www.youtube.com/watch?v=y7TcosmxL7E) |                                     [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter)                                    |
 | [King's Bounty 2](https://en.wikipedia.org/wiki/King%27s_Bounty_II)                            |  TBA |   PC   |                             TBA                            |                                     [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy)                                    |
+| Overwatch 2                                                                                    |  TBA |   PC   |                             TBA                            |                               Team-based [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter)                               |
 | Grand Theft Auto 6                                                                             |  TBA |   PC   |                             TBA                            |                                     [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game)                                     |
