@@ -4,8 +4,8 @@
 
 ### Summary
 
-- This repo is a list of all games I can remember playing
-- My most favorite genres show up at the top. In a genre, games are sorted by year (ascending)
+- This repo is a list of all games I can remember playing.
+- My most favorite genres show up at the top. In a genre, games are sorted by year.
 
 ### Table of Contents
 
@@ -24,6 +24,7 @@
 - [Music](#music)
 - [Platform](#platform)
 - [Shoot 'em up](#shoot-em-up)
+- [Augmented Reality](#augmented-reality)
 - [Sports](#sports)
 - [Role-playing](#role-playing)
 - [Party](#party)
@@ -196,6 +197,8 @@
 | [Abalone](https://en.wikipedia.org/wiki/Abalone_%28board_game%29)                      |                               1987                              |  Board |                    [Rules](https://www.youtube.com/watch?v=JmSOs3dGpyc)                    |                                   [Board](https://en.wikipedia.org/wiki/Board_game)                                  |
 | [Terrace](https://en.wikipedia.org/wiki/Terrace_%28board_game%29)                      |                               1991                              |  Board |                    [Rules](https://www.youtube.com/watch?v=Fe80g3RdrJQ)                    |                                   [Board](https://en.wikipedia.org/wiki/Board_game)                                  |
 | [Settlers of Catan](https://en.wikipedia.org/wiki/Catan)                               |                               1995                              |  Board |                    [Rules](https://www.youtube.com/watch?v=8Yj0Y3GKE40)                    |                                   [Board](https://en.wikipedia.org/wiki/Board_game)                                  |
+| [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_%28board_game%29)              |                               2000                              |  Board |                    [Rules](https://www.youtube.com/watch?v=-74FYj21JVg)                    |                                   [Board](https://en.wikipedia.org/wiki/Board_game)                                  |
+| [Ticket to Ride](https://en.wikipedia.org/wiki/Ticket_to_Ride_%28board_game%29)        |                               2004                              |  Board |                    [Rules](https://www.youtube.com/watch?v=4JhFhyvGdik)                    |                                   [Board](https://en.wikipedia.org/wiki/Board_game)                                  |
 | [Pentago](https://en.wikipedia.org/wiki/Pentago)                                       |                               2005                              |  Board |                    [Rules](https://www.youtube.com/watch?v=8DgUsC_X0QI)                    | [Board](https://en.wikipedia.org/wiki/Board_game) - [Abstract Strategy](https://www.youtube.com/watch?v=8DgUsC_X0QI) |
 | [Pandemic](https://en.wikipedia.org/wiki/Pandemic_%28board_game%29)                    |                               2008                              |  Board |                    [Rules](https://www.youtube.com/watch?v=4RxqzBA_HRs)                    |                                   [Board](https://en.wikipedia.org/wiki/Board_game)                                  |
 | [Small World](https://en.wikipedia.org/wiki/Small_World_%28board_game%29)              |                               2009                              |  Board |                    [Rules](https://www.youtube.com/watch?v=BMxt7OVj_lI)                    |                                   [Board](https://en.wikipedia.org/wiki/Board_game)                                  |
@@ -252,6 +255,16 @@
 | [Missile Command](https://en.wikipedia.org/wiki/Missile_Command)                    | 1980 |      Atari     | [Longplay](https://www.youtube.com/watch?v=nokIGklnBGY) | [Shoot 'em up](https://en.wikipedia.org/wiki/Shoot_%27em_up) - [Fixed Shooter](https://en.wikipedia.org/wiki/Shoot_%27em_up#Fixed_shooters) |
 | [Star Fox](https://en.wikipedia.org/wiki/Star_Fox_%281993_video_game%29)            | 1993 | Super Nintendo | [Longplay](https://www.youtube.com/watch?v=UhZIfpgfS6Y) |  [Shoot 'em up](https://en.wikipedia.org/wiki/Shoot_%27em_up) - [Rail shooter](https://en.wikipedia.org/wiki/Shoot_%27em_up#Rail_shooters)  |
 | [Zombie's Ate My Neighbors](https://en.wikipedia.org/wiki/Zombies_Ate_My_Neighbors) | 1993 |  Sega Genesis  | [Longplay](https://www.youtube.com/watch?v=V8Mbm47D3o8) |    [Shoot 'em up](https://en.wikipedia.org/wiki/Shoot_%27em_up) - [Run and Gun](https://en.wikipedia.org/wiki/Shoot_%27em_up#Run_and_gun)   |
+
+
+### Augmented Reality
+
+| Game                                                                                               | Year | System |                          Video                          |                                                                    Genre                                                                   |
+|----------------------------------------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
+| [Pokemon Go](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)                                        | 2016 | Mobile | [Gameplay](https://www.youtube.com/watch?v=F9u81_vytOI) | [Augmented Reality](https://en.wikipedia.org/wiki/Augmented_reality) - [Location-based](https://en.wikipedia.org/wiki/Location-based_game) |
+| [Jenga AR](https://play.google.com/store/apps/details?id=com.freerangegames.jengaar&hl=en_US)      | 2018 | Mobile | [Gameplay](https://www.youtube.com/watch?v=s5nHUbuKhZ4) |                                    [Augmented Reality](https://en.wikipedia.org/wiki/Augmented_reality)                                    |
+| [Jurassic World Alive](https://simple.wikipedia.org/wiki/Jurassic_World_Alive)                     | 2018 | Mobile | [Gameplay](https://www.youtube.com/watch?v=lRS0jkAqVl4) | [Augmented Reality](https://en.wikipedia.org/wiki/Augmented_reality) - [Location-based](https://en.wikipedia.org/wiki/Location-based_game) |
+| [Basket Busters](https://play.google.com/store/apps/details?id=com.viyatek.basketbusters&hl=en_US) | 2019 | Mobile |                      Not Available                      |                                    [Augmented Reality](https://en.wikipedia.org/wiki/Augmented_reality)                                    |
 
 
 ### Sports
@@ -322,15 +335,15 @@
 
 ### Other
 
-| Game                                                                  | Year |  System  |                          Video                          |                                                                   Genre                                                                   |
-|-----------------------------------------------------------------------|:----:|:--------:|:-------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
-| [Pacman](https://en.wikipedia.org/wiki/Pac-Man)                       | 1980 |    PC    | [Gameplay](https://www.youtube.com/watch?v=dScq4P5gn4A) |                                       [Maze](https://en.wikipedia.org/wiki/List_of_maze_video_games)                                      |
-| [Jenga](https://en.wikipedia.org/wiki/Jenga)                          | 1984 |   Board  |   [Rules](https://www.youtube.com/watch?v=pbE6SRQ7PoA)  |                                        [Game of skill](https://en.wikipedia.org/wiki/Game_of_skill)                                       |
-| [Duck Hunt](https://en.wikipedia.org/wiki/Duck_Hunt)                  | 1984 | Nintendo | [Longplay](https://www.youtube.com/watch?v=jBDNsaWiT8Q) |                                    [Light Gun Shooter](https://en.wikipedia.org/wiki/Light_gun_shooter)                                   |
-| [Pogs](https://en.wikipedia.org/wiki/Milk_caps_%28game%29)            | 1991 |   Pogs   | [Gameplay](https://www.youtube.com/watch?v=l3MwDOiXo38) |                                  [Collectible game](https://en.wikipedia.org/wiki/Collectible_card_game)                                  |
-| [Full Tilt Pinball](https://en.wikipedia.org/wiki/Full_Tilt!_Pinball) | 1995 |    PC    |   [Video](https://www.youtube.com/watch?v=7Zi7kCqtN1M)  |                                              [Pinball](https://en.wikipedia.org/wiki/Pinball)                                             |
-| [Twisted Metal 2](https://en.wikipedia.org/wiki/Twisted_Metal_2)      | 1996 |    PC    | [Gameplay](https://www.youtube.com/watch?v=VU3maZLZlGM) |                              [Vehicular Combat](https://en.wikipedia.org/wiki/List_of_vehicular_combat_games)                             |
-| [Pokemon Go](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)           | 2016 |  Mobile  | [Gameplay](https://www.youtube.com/watch?v=F9u81_vytOI) | [Augmented Reality](https://en.wikipedia.org/wiki/Augmented_reality), [Location-based](https://en.wikipedia.org/wiki/Location-based_game) |
+| Game                                                                  | Year |  System  |                          Video                          |                                       Genre                                      |
+|-----------------------------------------------------------------------|:----:|:--------:|:-------------------------------------------------------:|:--------------------------------------------------------------------------------:|
+| [Pacman](https://en.wikipedia.org/wiki/Pac-Man)                       | 1980 |    PC    | [Gameplay](https://www.youtube.com/watch?v=dScq4P5gn4A) |          [Maze](https://en.wikipedia.org/wiki/List_of_maze_video_games)          |
+| [Jenga](https://en.wikipedia.org/wiki/Jenga)                          | 1984 |   Board  |   [Rules](https://www.youtube.com/watch?v=pbE6SRQ7PoA)  |           [Game of skill](https://en.wikipedia.org/wiki/Game_of_skill)           |
+| [Duck Hunt](https://en.wikipedia.org/wiki/Duck_Hunt)                  | 1984 | Nintendo | [Longplay](https://www.youtube.com/watch?v=jBDNsaWiT8Q) |       [Light Gun Shooter](https://en.wikipedia.org/wiki/Light_gun_shooter)       |
+| [Pogs](https://en.wikipedia.org/wiki/Milk_caps_%28game%29)            | 1991 |   Pogs   | [Gameplay](https://www.youtube.com/watch?v=l3MwDOiXo38) |      [Collectible game](https://en.wikipedia.org/wiki/Collectible_card_game)     |
+| [Full Tilt Pinball](https://en.wikipedia.org/wiki/Full_Tilt!_Pinball) | 1995 |    PC    |   [Video](https://www.youtube.com/watch?v=7Zi7kCqtN1M)  |                 [Pinball](https://en.wikipedia.org/wiki/Pinball)                 |
+| [Twisted Metal 2](https://en.wikipedia.org/wiki/Twisted_Metal_2)      | 1996 |    PC    | [Gameplay](https://www.youtube.com/watch?v=VU3maZLZlGM) | [Vehicular Combat](https://en.wikipedia.org/wiki/List_of_vehicular_combat_games) |
+| [Cookie Clicker](https://en.wikipedia.org/wiki/Cookie_Clicker)        | 2013 |  Mobile  | [Gameplay](https://www.youtube.com/watch?v=RHrUj7W3Lwg) |             [Clicker](https://en.wikipedia.org/wiki/Incremental_game)            |
 
 
 ### Unplayed MOBA
