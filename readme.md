@@ -9,6 +9,8 @@
 
 ### Table of Contents
 
+- [Unplayed](#unplayed)
+- [Unplayed MOBA](#unplayed-moba)
 - [Real-time strategy](#real-time-strategy)
 - [Turn-based strategy](#turn-based-strategy)
 - [Action-adventure](#action-adventure)
@@ -32,8 +34,31 @@
 - [Racing](#racing)
 - [Probability](#probability)
 - [Other](#other)
-- [Unplayed MOBA](#unplayed-moba)
-- [Unplayed](#unplayed)
+
+
+
+### Unplayed
+
+| Game                                                                 | Year | System |                          Video                          |                                        Genre                                        |
+|----------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
+| [Minecraft](https://en.wikipedia.org/wiki/Minecraft)                 | 2011 |   PC   | [Longplay](https://www.youtube.com/watch?v=n9OU5XBXnfo) |                [Sandbox](https://en.wikipedia.org/wiki/Sandbox_game)                |
+| [Half Life: Alyx](https://en.wikipedia.org/wiki/Half-Life:_Alyx)     | 2020 |   VR   | [Gameplay](https://www.youtube.com/watch?v=f1SwlsZMUWE) |       [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter)      |
+| [Streets of Rage 4](https://en.wikipedia.org/wiki/Streets_of_Rage_4) | 2020 |   PC   | [Gameplay](https://www.youtube.com/watch?v=-Jw6wK4GJds) |              [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up)             |
+| [King's Bounty 2](https://en.wikipedia.org/wiki/King%27s_Bounty_II)  |  TBA |   PC   |                           TBA                           |       [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy)      |
+| Civilization 7                                                       |  TBA |   PC   |                           TBA                           |       [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy)      |
+| Overwatch 2                                                          |  TBA |   PC   |                           TBA                           | Team-based [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
+| Grand Theft Auto 6                                                   |  TBA |   PC   |                           TBA                           |       [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game)       |
+
+
+### Unplayed MOBA
+
+| Game                                                                     | Year | System |                          Video                          |                                 Genre                                 |
+|--------------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:---------------------------------------------------------------------:|
+| [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends)     | 2009 |   PC   | [Gameplay](https://www.youtube.com/watch?v=fJVQNAEfaNM) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
+| [Defense of the Ancients (DOTA) 2](https://en.wikipedia.org/wiki/Dota_2) | 2013 |   PC   | [Gameplay](https://www.youtube.com/watch?v=jUrQRnkSXzE) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
+| [Smite](https://en.wikipedia.org/wiki/Smite_%28video_game%29)            | 2014 |   PC   | [Gameplay](https://www.youtube.com/watch?v=2g-7H7AGFno) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
+| [Heroes of the Storm](https://en.wikipedia.org/wiki/Heroes_of_the_Storm) | 2015 |   PC   | [Gameplay](https://www.youtube.com/watch?v=k0Oaf7EfOXQ) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
+
 
 ### Real-time strategy
 
@@ -56,17 +81,18 @@
 
 ### Action-adventure
 
-| Game                                                                                         | Year |       System      |                          Video                          |                                  Genre                                  |
-|----------------------------------------------------------------------------------------------|:----:|:-----------------:|:-------------------------------------------------------:|:-----------------------------------------------------------------------:|
-| [Prince of Persia](https://en.wikipedia.org/wiki/Prince_of_Persia)                           | 1989 |    Sega Genesis   | [Longplay](https://www.youtube.com/watch?v=JDeIWfz_EM4) | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
-| [Treasure Mountain](https://en.wikipedia.org/wiki/Treasure_Mountain!)                        | 1990 |         PC        | [Longplay](https://www.youtube.com/watch?v=9AlFhNsLY1E) |        [Adventure](https://en.wikipedia.org/wiki/Adventure_game)        |
-| [Wonder Boy in Monster World](https://en.wikipedia.org/wiki/Wonder_Boy_in_Monster_World)     | 1992 |    Sega Genesis   | [Longplay](https://www.youtube.com/watch?v=8VDaPFiLbAM) | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
-| [Pirates Gold](https://en.wikipedia.org/wiki/Sid_Meier%27s_Pirates!#Release_history)         | 1993 |    Sega Genesis   | [Longplay](https://www.youtube.com/watch?v=2wGmBlkVvZM) | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
-| [The Journeyman Project: Turbo](https://en.wikipedia.org/wiki/The_Journeyman_Project)        | 1993 |         PC        | [Longplay](https://www.youtube.com/watch?v=akv_sp-iMX8) |        [Adventure](https://en.wikipedia.org/wiki/Adventure_game)        |
-| [Zelda: Ocarina of Time](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time) | 1998 |    Nintendo 64    | [Longplay](https://www.youtube.com/watch?v=_KO2a83jfas) | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
-| [Shenmue](https://en.wikipedia.org/wiki/Shenmue)                                             | 1999 |     Dreamcast     | [Longplay](https://www.youtube.com/watch?v=W8RpDgxAyKI) | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
-| [Luigi's Mansion](https://en.wikipedia.org/wiki/Luigi%27s_Mansion)                           | 2001 | Nintendo GameCube | [Longplay](https://www.youtube.com/watch?v=9bWePif7psc) | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
-| [The Lab](https://en.wikipedia.org/wiki/The_Lab_%28video_game%29)                            | 2016 |         VR        | [Gameplay](https://www.youtube.com/watch?v=yWgbGAx3P-M) |           [Action](https://en.wikipedia.org/wiki/Action_game)           |
+| Game                                                                                         | Year |       System      |                            Video                           |                                  Genre                                  |
+|----------------------------------------------------------------------------------------------|:----:|:-----------------:|:----------------------------------------------------------:|:-----------------------------------------------------------------------:|
+| [Prince of Persia](https://en.wikipedia.org/wiki/Prince_of_Persia)                           | 1989 |    Sega Genesis   |   [Longplay](https://www.youtube.com/watch?v=JDeIWfz_EM4)  | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
+| [Treasure Mountain](https://en.wikipedia.org/wiki/Treasure_Mountain!)                        | 1990 |         PC        |   [Longplay](https://www.youtube.com/watch?v=9AlFhNsLY1E)  |        [Adventure](https://en.wikipedia.org/wiki/Adventure_game)        |
+| [Wonder Boy in Monster World](https://en.wikipedia.org/wiki/Wonder_Boy_in_Monster_World)     | 1992 |    Sega Genesis   |   [Longplay](https://www.youtube.com/watch?v=8VDaPFiLbAM)  | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
+| [Pirates Gold](https://en.wikipedia.org/wiki/Sid_Meier%27s_Pirates!#Release_history)         | 1993 |    Sega Genesis   |   [Longplay](https://www.youtube.com/watch?v=2wGmBlkVvZM)  | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
+| [The Journeyman Project: Turbo](https://en.wikipedia.org/wiki/The_Journeyman_Project)        | 1993 |         PC        |   [Longplay](https://www.youtube.com/watch?v=akv_sp-iMX8)  |        [Adventure](https://en.wikipedia.org/wiki/Adventure_game)        |
+| [Zelda: Ocarina of Time](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time) | 1998 |    Nintendo 64    |   [Longplay](https://www.youtube.com/watch?v=_KO2a83jfas)  | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
+| [Shenmue](https://en.wikipedia.org/wiki/Shenmue)                                             | 1999 |     Dreamcast     |   [Longplay](https://www.youtube.com/watch?v=W8RpDgxAyKI)  | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
+| [Luigi's Mansion](https://en.wikipedia.org/wiki/Luigi%27s_Mansion)                           | 2001 | Nintendo GameCube |   [Longplay](https://www.youtube.com/watch?v=9bWePif7psc)  | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
+| [The Lab](https://en.wikipedia.org/wiki/The_Lab_%28video_game%29)                            | 2016 |         VR        |   [Gameplay](https://www.youtube.com/watch?v=yWgbGAx3P-M)  |           [Action](https://en.wikipedia.org/wiki/Action_game)           |
+| [Red Dead Redemption 2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2)                 | 2019 |         PC        | [4K Gameplay](https://www.youtube.com/watch?v=lM-06ehsAu8) | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |
 
 
 ### Fighting
@@ -124,24 +150,6 @@
 |---------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [Rec Room](https://en.wikipedia.org/wiki/Rec_Room_%28video_game%29) | 2016 |   VR   | [Gameplay](https://www.youtube.com/watch?v=nK1WOUiwiF4) | [Game creation system](https://en.wikipedia.org/wiki/Game_creation_system) - [MMO](https://en.wikipedia.org/wiki/Massively_multiplayer_online_game) |
 | [VRChat](https://en.wikipedia.org/wiki/VRChat)                      | 2017 |   VR   | [Gameplay](https://www.youtube.com/watch?v=4yGLOHNPEhQ) |                                        [MMO](https://en.wikipedia.org/wiki/Massively_multiplayer_online_game)                                       |
-
-
-### 1st-person shooter
-
-| Game                                                                               | Year |    System   |                          Video                          |                                   Genre                                  |
-|------------------------------------------------------------------------------------|:----:|:-----------:|:-------------------------------------------------------:|:------------------------------------------------------------------------:|
-| [Thunderstrike](https://en.wikipedia.org/wiki/Thunderstrike_%28video_game%29)      | 1990 |      PC     | [Gameplay](https://www.youtube.com/watch?v=mwdH7e8o8kw) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
-| [Dactyl Nightmare](https://www.giantbomb.com/dactyl-nightmare/3030-38723)          | 1991 |      VR     | [Gameplay](https://www.youtube.com/watch?v=dji9YiPZ4AM) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
-| [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D)                     | 1992 |      PC     | [Longplay](https://www.youtube.com/watch?v=x8o0a5ntxfc) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
-| [Doom](https://en.wikipedia.org/wiki/Doom_%281993_video_game%29)                   | 1993 |      PC     | [Longplay](https://www.youtube.com/watch?v=iFnOLFd_ByQ) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
-| [Rise of the Triad](https://en.wikipedia.org/wiki/Rise_of_the_Triad)               | 1995 |      PC     | [Longplay](https://www.youtube.com/watch?v=ITbehdRJUiY) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
-| [GoldenEye 007](https://en.wikipedia.org/wiki/GoldenEye_007_%281997_video_game%29) | 1997 | Nintendo 64 | [Longplay](https://www.youtube.com/watch?v=bYXy0GvzVR0) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
-| [Team Fortress Classic](https://en.wikipedia.org/wiki/Team_Fortress_Classic)       | 1999 |      PC     | [Longplay](https://www.youtube.com/watch?v=TaTE1NYIjBU) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
-| [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament)               | 1999 |      PC     | [Gameplay](https://www.youtube.com/watch?v=4vHZcZJTegQ) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
-| [Quake 3: Arena](https://en.wikipedia.org/wiki/Quake_III_Arena)                    | 1999 |      PC     | [Longplay](https://www.youtube.com/watch?v=YK8fgDXDGKg) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
-| [Halo 2](https://en.wikipedia.org/wiki/Halo_2)                                     | 2004 |     Xbox    | [Longplay](https://www.youtube.com/watch?v=82NUo0PNsrI) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
-| [Arizona Sunshine](https://en.wikipedia.org/wiki/Arizona_Sunshine)                 | 2016 |      VR     | [Longplay](https://www.youtube.com/watch?v=v_XQNCO8W3o) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
-| [SuperHot VR](https://en.wikipedia.org/wiki/Superhot)                              | 2016 |      VR     | [Gameplay](https://www.youtube.com/watch?v=KuGz6IKldZI) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
 
 
 ### Puzzle
@@ -313,6 +321,25 @@
 | [Nibbles](https://en.wikipedia.org/wiki/Nibbles_%28video_game%29) | 1991 |   PC   | [Longplay](https://www.youtube.com/watch?v=UmeKHtei0qo) | [Snake](https://en.wikipedia.org/wiki/Snake_%28video_game_genre%29) |
 
 
+### 1st-person shooter
+
+| Game                                                                               | Year |    System   |                            Video                           |                                   Genre                                  |
+|------------------------------------------------------------------------------------|:----:|:-----------:|:----------------------------------------------------------:|:------------------------------------------------------------------------:|
+| [Thunderstrike](https://en.wikipedia.org/wiki/Thunderstrike_%28video_game%29)      | 1990 |      PC     |   [Gameplay](https://www.youtube.com/watch?v=mwdH7e8o8kw)  | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
+| [Dactyl Nightmare](https://www.giantbomb.com/dactyl-nightmare/3030-38723)          | 1991 |      VR     |   [Gameplay](https://www.youtube.com/watch?v=dji9YiPZ4AM)  | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
+| [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D)                     | 1992 |      PC     |   [Longplay](https://www.youtube.com/watch?v=x8o0a5ntxfc)  | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
+| [Doom](https://en.wikipedia.org/wiki/Doom_%281993_video_game%29)                   | 1993 |      PC     |   [Longplay](https://www.youtube.com/watch?v=iFnOLFd_ByQ)  | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
+| [Rise of the Triad](https://en.wikipedia.org/wiki/Rise_of_the_Triad)               | 1995 |      PC     |   [Longplay](https://www.youtube.com/watch?v=ITbehdRJUiY)  | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
+| [GoldenEye 007](https://en.wikipedia.org/wiki/GoldenEye_007_%281997_video_game%29) | 1997 | Nintendo 64 |   [Longplay](https://www.youtube.com/watch?v=bYXy0GvzVR0)  | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
+| [Team Fortress Classic](https://en.wikipedia.org/wiki/Team_Fortress_Classic)       | 1999 |      PC     |   [Longplay](https://www.youtube.com/watch?v=TaTE1NYIjBU)  | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
+| [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament)               | 1999 |      PC     |   [Gameplay](https://www.youtube.com/watch?v=4vHZcZJTegQ)  | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
+| [Quake 3: Arena](https://en.wikipedia.org/wiki/Quake_III_Arena)                    | 1999 |      PC     |   [Longplay](https://www.youtube.com/watch?v=YK8fgDXDGKg)  | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
+| [Halo 2](https://en.wikipedia.org/wiki/Halo_2)                                     | 2004 |     Xbox    |   [Longplay](https://www.youtube.com/watch?v=82NUo0PNsrI)  | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
+| [Arizona Sunshine](https://en.wikipedia.org/wiki/Arizona_Sunshine)                 | 2016 |      VR     |   [Longplay](https://www.youtube.com/watch?v=v_XQNCO8W3o)  | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
+| [SuperHot VR](https://en.wikipedia.org/wiki/Superhot)                              | 2016 |      VR     |   [Gameplay](https://www.youtube.com/watch?v=KuGz6IKldZI)  | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
+| [Doom Eternal](https://en.wikipedia.org/wiki/Doom_Eternal)                         | 2020 |      PC     | [4K Gameplay](https://www.youtube.com/watch?v=y7TcosmxL7E) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
+
+
 ### Racing
 
 | Game                                                                                  | Year |      System     |                          Video                          |                           Genre                           |
@@ -344,27 +371,3 @@
 | [Full Tilt Pinball](https://en.wikipedia.org/wiki/Full_Tilt!_Pinball) | 1995 |    PC    |   [Video](https://www.youtube.com/watch?v=7Zi7kCqtN1M)  |                 [Pinball](https://en.wikipedia.org/wiki/Pinball)                 |
 | [Twisted Metal 2](https://en.wikipedia.org/wiki/Twisted_Metal_2)      | 1996 |    PC    | [Gameplay](https://www.youtube.com/watch?v=VU3maZLZlGM) | [Vehicular Combat](https://en.wikipedia.org/wiki/List_of_vehicular_combat_games) |
 | [Cookie Clicker](https://en.wikipedia.org/wiki/Cookie_Clicker)        | 2013 |  Mobile  | [Gameplay](https://www.youtube.com/watch?v=RHrUj7W3Lwg) |             [Clicker](https://en.wikipedia.org/wiki/Incremental_game)            |
-
-
-### Unplayed MOBA
-
-| Game                                                                     | Year | System |                          Video                          |                                 Genre                                 |
-|--------------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:---------------------------------------------------------------------:|
-| [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends)     | 2009 |   PC   | [Gameplay](https://www.youtube.com/watch?v=fJVQNAEfaNM) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
-| [Defense of the Ancients (DOTA) 2](https://en.wikipedia.org/wiki/Dota_2) | 2013 |   PC   | [Gameplay](https://www.youtube.com/watch?v=jUrQRnkSXzE) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
-| [Smite](https://en.wikipedia.org/wiki/Smite_%28video_game%29)            | 2014 |   PC   | [Gameplay](https://www.youtube.com/watch?v=2g-7H7AGFno) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
-| [Heroes of the Storm](https://en.wikipedia.org/wiki/Heroes_of_the_Storm) | 2015 |   PC   | [Gameplay](https://www.youtube.com/watch?v=k0Oaf7EfOXQ) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
-
-
-### Unplayed
-
-| Game                                                                         | Year | System |                            Video                           |                                        Genre                                        |
-|------------------------------------------------------------------------------|:----:|:------:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
-| [Minecraft](https://en.wikipedia.org/wiki/Minecraft)                         | 2011 |   PC   |   [Longplay](https://www.youtube.com/watch?v=n9OU5XBXnfo)  |                [Sandbox](https://en.wikipedia.org/wiki/Sandbox_game)                |
-| [Red Dead Redemption 2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2) | 2019 |   PC   | [4K Gameplay](https://www.youtube.com/watch?v=lM-06ehsAu8) |       [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game)       |
-| [Doom Eternal](https://en.wikipedia.org/wiki/Doom_Eternal)                   | 2020 |   PC   | [4K Gameplay](https://www.youtube.com/watch?v=y7TcosmxL7E) |       [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter)      |
-| [Half Life: Alyx](https://en.wikipedia.org/wiki/Half-Life:_Alyx)             | 2020 |   VR   |   [Gameplay](https://www.youtube.com/watch?v=f1SwlsZMUWE)  |       [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter)      |
-| [Streets of Rage 4](https://en.wikipedia.org/wiki/Streets_of_Rage_4)         | 2020 |   PC   |   [Gameplay](https://www.youtube.com/watch?v=-Jw6wK4GJds)  |              [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up)             |
-| [King's Bounty 2](https://en.wikipedia.org/wiki/King%27s_Bounty_II)          |  TBA |   PC   |                             TBA                            |       [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy)      |
-| Overwatch 2                                                                  |  TBA |   PC   |                             TBA                            | Team-based [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
-| Grand Theft Auto 6                                                           |  TBA |   PC   |                             TBA                            |       [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game)       |
