@@ -10,7 +10,6 @@
 ### Table of Contents
 
 - [Unplayed](#unplayed)
-- [Unplayed MOBA](#unplayed-moba)
 - [Real-time strategy](#real-time-strategy)
 - [Turn-based strategy](#turn-based-strategy)
 - [Action-adventure](#action-adventure)
@@ -41,21 +40,10 @@
 
 | Game                                                                 | Year | System |                          Video                          |                                   Genre                                  |
 |----------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:------------------------------------------------------------------------:|
-| [Minecraft](https://en.wikipedia.org/wiki/Minecraft)                 | 2011 |   PC   | [Longplay](https://www.youtube.com/watch?v=n9OU5XBXnfo) |           [Sandbox](https://en.wikipedia.org/wiki/Sandbox_game)          |
-| [Half Life: Alyx](https://en.wikipedia.org/wiki/Half-Life:_Alyx)     | 2020 |   VR   | [Gameplay](https://www.youtube.com/watch?v=f1SwlsZMUWE) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
 | [Streets of Rage 4](https://en.wikipedia.org/wiki/Streets_of_Rage_4) | 2020 |   PC   | [Gameplay](https://www.youtube.com/watch?v=-Jw6wK4GJds) |        [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up)        |
+| [Half Life: Alyx](https://en.wikipedia.org/wiki/Half-Life:_Alyx)     | 2020 |   VR   | [Gameplay](https://www.youtube.com/watch?v=f1SwlsZMUWE) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
 | [King's Bounty 2](https://en.wikipedia.org/wiki/King%27s_Bounty_II)  |  TBA |   PC   |                           TBA                           | [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy) |
 | Civilization 7                                                       |  TBA |   PC   |                           TBA                           | [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy) |
-
-
-### Unplayed MOBA
-
-| Game                                                                     | Year | System |                          Video                          |                                 Genre                                 |
-|--------------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:---------------------------------------------------------------------:|
-| [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends)     | 2009 |   PC   | [Gameplay](https://www.youtube.com/watch?v=fJVQNAEfaNM) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
-| [Defense of the Ancients (DOTA) 2](https://en.wikipedia.org/wiki/Dota_2) | 2013 |   PC   | [Gameplay](https://www.youtube.com/watch?v=jUrQRnkSXzE) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
-| [Smite](https://en.wikipedia.org/wiki/Smite_%28video_game%29)            | 2014 |   PC   | [Gameplay](https://www.youtube.com/watch?v=2g-7H7AGFno) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
-| [Heroes of the Storm](https://en.wikipedia.org/wiki/Heroes_of_the_Storm) | 2015 |   PC   | [Gameplay](https://www.youtube.com/watch?v=k0Oaf7EfOXQ) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
 
 
 ### Real-time strategy
