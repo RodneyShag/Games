@@ -41,7 +41,6 @@
 | Game                                                                 | Year | System |                          Video                          |                                   Genre                                  |
 |----------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:------------------------------------------------------------------------:|
 | [Streets of Rage 4](https://en.wikipedia.org/wiki/Streets_of_Rage_4) | 2020 |   PC   | [Gameplay](https://www.youtube.com/watch?v=-Jw6wK4GJds) |        [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up)        |
-| [Half Life: Alyx](https://en.wikipedia.org/wiki/Half-Life:_Alyx)     | 2020 |   VR   | [Gameplay](https://www.youtube.com/watch?v=f1SwlsZMUWE) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
 | [King's Bounty 2](https://en.wikipedia.org/wiki/King%27s_Bounty_II)  |  TBA |   PC   |                           TBA                           | [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy) |
 | Civilization 7                                                       |  TBA |   PC   |                           TBA                           | [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy) |
 
