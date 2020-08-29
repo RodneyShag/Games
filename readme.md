@@ -62,6 +62,7 @@
 | [Heroes of Might & Magic 2](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II)                 | 1996 |   PC   | [Longplay](https://www.youtube.com/watch?v=YcIk7hr74k8) |                               [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy)                               |
 | [Heroes of Might & Magic 3](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III)                | 1999 |   PC   | [Longplay](https://www.youtube.com/watch?v=g7krLOZJE4Y) |                               [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy)                               |
 | [Heroes of Might & Magic 6](https://en.wikipedia.org/wiki/Might_%26_Magic_Heroes_VI)                    | 2011 |   PC   | [Gameplay](https://www.youtube.com/watch?v=T3ZxXRvGW4o) |                               [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy)                               |
+| [Civilization 6](https://en.wikipedia.org/wiki/Civilization_VI)                                         | 2016 |   PC   | [Gameplay](https://www.youtube.com/watch?v=dU41qtokZy4) |                               [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy)                               |
 
 
 ### Action-adventure
