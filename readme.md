@@ -42,7 +42,6 @@
 |----------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:------------------------------------------------------------------------:|
 | [Streets of Rage 4](https://en.wikipedia.org/wiki/Streets_of_Rage_4) | 2020 |   PC   | [Gameplay](https://www.youtube.com/watch?v=-Jw6wK4GJds) |        [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up)        |
 | [King's Bounty 2](https://en.wikipedia.org/wiki/King%27s_Bounty_II)  |  TBA |   PC   |                           TBA                           | [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy) |
-| Civilization 7                                                       |  TBA |   PC   |                           TBA                           | [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy) |
 
 
 ### Real-time strategy
