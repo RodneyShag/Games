@@ -355,4 +355,5 @@
 | [Pogs](https://en.wikipedia.org/wiki/Milk_caps_%28game%29)            | 1991 |   Pogs   | [Gameplay](https://www.youtube.com/watch?v=l3MwDOiXo38) |      [Collectible game](https://en.wikipedia.org/wiki/Collectible_card_game)     |
 | [Full Tilt Pinball](https://en.wikipedia.org/wiki/Full_Tilt!_Pinball) | 1995 |    PC    |   [Video](https://www.youtube.com/watch?v=7Zi7kCqtN1M)  |                 [Pinball](https://en.wikipedia.org/wiki/Pinball)                 |
 | [Twisted Metal 2](https://en.wikipedia.org/wiki/Twisted_Metal_2)      | 1996 |    PC    | [Gameplay](https://www.youtube.com/watch?v=VU3maZLZlGM) | [Vehicular Combat](https://en.wikipedia.org/wiki/List_of_vehicular_combat_games) |
+| [Fruit Ninja](https://en.wikipedia.org/wiki/Fruit_Ninja)              | 2010 |  Mobile  | [Gameplay](https://www.youtube.com/watch?v=3bdBToxbGqg) |                                   I don't know                                   |
 | [Cookie Clicker](https://en.wikipedia.org/wiki/Cookie_Clicker)        | 2013 |  Mobile  | [Gameplay](https://www.youtube.com/watch?v=RHrUj7W3Lwg) |             [Clicker](https://en.wikipedia.org/wiki/Incremental_game)            |
