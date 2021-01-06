@@ -17,6 +17,7 @@
 - [Tower Defense](#tower-defense)
 - [Simulation](#simulation)
 - [Beat 'em up](#beat-em-up)
+- [MOBA](#moba)
 - [MMO](#mmo)
 - [1st-person shooter](#1st-person-shooter)
 - [Puzzle](#puzzle)
@@ -40,7 +41,6 @@
 
 | Game                                                                     | Year | System |                          Video                          |                                   Genre                                  |
 |--------------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:------------------------------------------------------------------------:|
-| [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends)     | 2009 |   PC   | [Gameplay](https://www.youtube.com/watch?v=fJVQNAEfaNM) |   [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena)  |
 | [Defense of the Ancients (DOTA) 2](https://en.wikipedia.org/wiki/Dota_2) | 2013 |   PC   | [Gameplay](https://www.youtube.com/watch?v=jUrQRnkSXzE) |   [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena)  |
 | [King's Bounty 2](https://en.wikipedia.org/wiki/King%27s_Bounty_II)      |  TBA |   PC   |                           TBA                           | [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy) |
 
@@ -129,6 +129,13 @@
 | [Teenage Mutant Ninja Turtles](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_The_Hyperstone_Heist) | 1992 | Sega Genesis | [Longplay](https://www.youtube.com/watch?v=CRQOYZin6Bc) | [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up) |
 | [Battletoads / Double Dragon](https://en.wikipedia.org/wiki/Battletoads/Double_Dragon)                           | 1993 | Sega Genesis | [Longplay](https://www.youtube.com/watch?v=Fhu-VjBH1cg) | [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up) |
 | [Streets of Rage 4](https://en.wikipedia.org/wiki/Streets_of_Rage_4)                                             | 2020 |      PC      | [Gameplay](https://www.youtube.com/watch?v=-Jw6wK4GJds) | [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up) |
+
+
+### MOBA
+
+| Game                                                                 | Year | System |                          Video                          |                                 Genre                                 |
+|----------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:---------------------------------------------------------------------:|
+| [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends) | 2009 |   PC   | [Gameplay](https://www.youtube.com/watch?v=fJVQNAEfaNM) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
 
 
 ### MMO
