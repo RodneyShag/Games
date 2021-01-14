@@ -39,10 +39,9 @@
 
 ### Unplayed
 
-| Game                                                                     | Year | System |                          Video                          |                                   Genre                                  |
-|--------------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:------------------------------------------------------------------------:|
-| [Defense of the Ancients (DOTA) 2](https://en.wikipedia.org/wiki/Dota_2) | 2013 |   PC   | [Gameplay](https://www.youtube.com/watch?v=jUrQRnkSXzE) |   [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena)  |
-| [King's Bounty 2](https://en.wikipedia.org/wiki/King%27s_Bounty_II)      |  TBA |   PC   |                           TBA                           | [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy) |
+| Game                                                                | Year | System | Video |                                   Genre                                  |
+|---------------------------------------------------------------------|:----:|:------:|:-----:|:------------------------------------------------------------------------:|
+| [King's Bounty 2](https://en.wikipedia.org/wiki/King%27s_Bounty_II) |  TBA |   PC   |  TBA  | [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy) |
 
 
 ### Real-time strategy
@@ -133,9 +132,10 @@
 
 ### MOBA
 
-| Game                                                                 | Year | System |                          Video                          |                                 Genre                                 |
-|----------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:---------------------------------------------------------------------:|
-| [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends) | 2009 |   PC   | [Gameplay](https://www.youtube.com/watch?v=fJVQNAEfaNM) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
+| Game                                                                     | Year | System |                          Video                          |                                 Genre                                 |
+|--------------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:---------------------------------------------------------------------:|
+| [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends)     | 2009 |   PC   | [Gameplay](https://www.youtube.com/watch?v=fJVQNAEfaNM) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
+| [Defense of the Ancients (DOTA) 2](https://en.wikipedia.org/wiki/Dota_2) | 2013 |   PC   | [Gameplay](https://www.youtube.com/watch?v=jUrQRnkSXzE) | [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) |
 
 
 ### MMO
