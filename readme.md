@@ -293,10 +293,11 @@
 
 ### Role-playing
 
-| Game                                                              | Year | System |                          Video                          |                                                                 Genre                                                                 |
-|-------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-| [Diablo 1](https://en.wikipedia.org/wiki/Diablo_%28video_game%29) | 1997 |   PC   | [Longplay](https://www.youtube.com/watch?v=lHV7VnWvz_o) | [Action RPG](https://en.wikipedia.org/wiki/Action_role-playing_game) - [Hack and slash](https://en.wikipedia.org/wiki/Hack_and_slash) |
-| [Diablo 2](https://en.wikipedia.org/wiki/Diablo_II)               | 2000 |   PC   | [Longplay](https://www.youtube.com/watch?v=65cXaAmBgEE) | [Action RPG](https://en.wikipedia.org/wiki/Action_role-playing_game) - [Hack and slash](https://en.wikipedia.org/wiki/Hack_and_slash) |
+| Game                                                                                 | Year | System |                          Video                          |                                                                 Genre                                                                 |
+|--------------------------------------------------------------------------------------|:----:|:------:|:-------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
+| [The Bard's Tale](https://en.wikipedia.org/wiki/The_Bard%27s_Tale_(1985_video_game)) | 1985 |   PC   |         [Gameplay](https://youtu.be/gNQ0DN8IXR4)        |                                      [RPG](https://en.wikipedia.org/wiki/Role-playing_video_game)                                     |
+| [Diablo 1](https://en.wikipedia.org/wiki/Diablo_%28video_game%29)                    | 1997 |   PC   | [Longplay](https://www.youtube.com/watch?v=lHV7VnWvz_o) | [Action RPG](https://en.wikipedia.org/wiki/Action_role-playing_game) - [Hack and slash](https://en.wikipedia.org/wiki/Hack_and_slash) |
+| [Diablo 2](https://en.wikipedia.org/wiki/Diablo_II)                                  | 2000 |   PC   | [Longplay](https://www.youtube.com/watch?v=65cXaAmBgEE) | [Action RPG](https://en.wikipedia.org/wiki/Action_role-playing_game) - [Hack and slash](https://en.wikipedia.org/wiki/Hack_and_slash) |
 
 
 ### Party
