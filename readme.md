@@ -9,7 +9,6 @@
 
 ### Table of Contents
 
-- [Unplayed](#unplayed)
 - [MOBA](#moba)
 - [Real-time strategy](#real-time-strategy)
 - [Turn-based strategy](#turn-based-strategy)
@@ -34,14 +33,6 @@
 - [Racing](#racing)
 - [Probability](#probability)
 - [Other](#other)
-
-
-
-### Unplayed
-
-| Game                                                                | Year | System | Video |                                   Genre                                  |
-|---------------------------------------------------------------------|:----:|:------:|:-----:|:------------------------------------------------------------------------:|
-| [King's Bounty 2](https://en.wikipedia.org/wiki/King%27s_Bounty_II) |  TBA |   PC   |  TBA  | [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy) |
 
 
 ### MOBA
