@@ -84,21 +84,24 @@
 
 ### Fighting
 
-| Game                                                                                        | Year |       System      |                          Video                          |                          Genre                          |
-|---------------------------------------------------------------------------------------------|:----:|:-----------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
-| [Mortal Kombat 1](https://en.wikipedia.org/wiki/Mortal_Kombat_%281992_video_game%29)        | 1992 |    Sega Genesis   | [Longplay](https://www.youtube.com/watch?v=RiwMEI2wNxQ) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
-| [Samurai Showdown](https://en.wikipedia.org/wiki/Samurai_Shodown_%281993_video_game%29)     | 1993 |    Sega Genesis   | [Longplay](https://www.youtube.com/watch?v=-rzUx9cnG7g) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
-| [Eternal Champions](https://en.wikipedia.org/wiki/Eternal_Champions)                        | 1993 |    Sega Genesis   | [Longplay](https://www.youtube.com/watch?v=8VEsAIYJYnY) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
-| [Mortal Kombat 2](https://en.wikipedia.org/wiki/Mortal_Kombat_II)                           | 1993 |    Sega Genesis   | [Longplay](https://www.youtube.com/watch?v=MiXjiDZC5GA) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
-| [Super Street Fighter 2](https://en.wikipedia.org/wiki/Super_Street_Fighter_II)             | 1994 |    Sega Genesis   | [Longplay](https://www.youtube.com/watch?v=s39J-6NgkFM) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
-| [One Must Fall](https://en.wikipedia.org/wiki/One_Must_Fall:_2097)                          | 1994 |         PC        | [Longplay](https://www.youtube.com/watch?v=6fGM1cvUQv8) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
-| [Ultimate Mortal Kombat 3](https://en.wikipedia.org/wiki/Ultimate_Mortal_Kombat_3)          | 1995 |    Sega Genesis   | [Longplay](https://www.youtube.com/watch?v=nJ_I_l2pqaI) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
-| [WWF War Zone](https://en.wikipedia.org/wiki/WWF_War_Zone)                                  | 1998 |    Nintendo 64    | [Longplay](https://www.youtube.com/watch?v=FnZ2ifnqNbA) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
-| [Super Smash Brothers](https://en.wikipedia.org/wiki/Super_Smash_Bros._%28video_game%29)    | 1999 |    Nintendo 64    | [Longplay](https://www.youtube.com/watch?v=h9UofM5LehY) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
-| [Soul Caliber](https://en.wikipedia.org/wiki/Soulcalibur_%28video_game%29)                  | 1999 |     Dreamcast     | [Longplay](https://www.youtube.com/watch?v=TCTvTFnACLM) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
-| [Dead or Alive 2](https://en.wikipedia.org/wiki/Dead_or_Alive_2)                            | 2000 |     Dreamcast     | [Longplay](https://www.youtube.com/watch?v=JtkLFdui8Vo) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
-| [Super Smash Brothers - Melee](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee)       | 2001 | Nintendo GameCube | [Longplay](https://www.youtube.com/watch?v=f6UGXcqRuiE) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
-| [Super Smash Brothers - Ultimate](https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate) | 2018 |  Nintendo Switch  | [Longplay](https://www.youtube.com/watch?v=663UvTXbzbM) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| Game                                                                                        | Year |       System      |                             Video                            |                          Genre                          |
+|---------------------------------------------------------------------------------------------|:----:|:-----------------:|:------------------------------------------------------------:|:-------------------------------------------------------:|
+| [Mortal Kombat 1](https://en.wikipedia.org/wiki/Mortal_Kombat_%281992_video_game%29)        | 1992 |    Sega Genesis   |    [Longplay](https://www.youtube.com/watch?v=RiwMEI2wNxQ)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Samurai Showdown](https://en.wikipedia.org/wiki/Samurai_Shodown_%281993_video_game%29)     | 1993 |    Sega Genesis   |    [Longplay](https://www.youtube.com/watch?v=-rzUx9cnG7g)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Eternal Champions](https://en.wikipedia.org/wiki/Eternal_Champions)                        | 1993 |    Sega Genesis   |    [Longplay](https://www.youtube.com/watch?v=8VEsAIYJYnY)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Mortal Kombat 2](https://en.wikipedia.org/wiki/Mortal_Kombat_II)                           | 1993 |    Sega Genesis   |    [Longplay](https://www.youtube.com/watch?v=MiXjiDZC5GA)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Super Street Fighter 2](https://en.wikipedia.org/wiki/Super_Street_Fighter_II)             | 1994 |    Sega Genesis   |    [Longplay](https://www.youtube.com/watch?v=s39J-6NgkFM)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [One Must Fall](https://en.wikipedia.org/wiki/One_Must_Fall:_2097)                          | 1994 |         PC        |    [Longplay](https://www.youtube.com/watch?v=6fGM1cvUQv8)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Ultimate Mortal Kombat 3](https://en.wikipedia.org/wiki/Ultimate_Mortal_Kombat_3)          | 1995 |    Sega Genesis   |    [Longplay](https://www.youtube.com/watch?v=nJ_I_l2pqaI)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [WWF War Zone](https://en.wikipedia.org/wiki/WWF_War_Zone)                                  | 1998 |    Nintendo 64    |    [Longplay](https://www.youtube.com/watch?v=FnZ2ifnqNbA)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Super Smash Brothers](https://en.wikipedia.org/wiki/Super_Smash_Bros._%28video_game%29)    | 1999 |    Nintendo 64    |    [Longplay](https://www.youtube.com/watch?v=h9UofM5LehY)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Soul Caliber](https://en.wikipedia.org/wiki/Soulcalibur_%28video_game%29)                  | 1999 |     Dreamcast     |    [Longplay](https://www.youtube.com/watch?v=TCTvTFnACLM)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Power Stone](https://en.wikipedia.org/wiki/Power_Stone)                                    | 1999 |     Dreamcast     |    [Longplay](https://www.youtube.com/watch?v=iIwIdHkYElY)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Dead or Alive 2](https://en.wikipedia.org/wiki/Dead_or_Alive_2)                            | 2000 |     Dreamcast     |    [Longplay](https://www.youtube.com/watch?v=JtkLFdui8Vo)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Marvel vs Capcom 2](https://en.wikipedia.org/wiki/Marvel_vs._Capcom_2:_New_Age_of_Heroes)  | 2000 |     Dreamcast     |    [Longplay](https://www.youtube.com/watch?v=i4El-7Skmgw)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Super Smash Brothers - Melee](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee)       | 2001 | Nintendo GameCube |    [Longplay](https://www.youtube.com/watch?v=f6UGXcqRuiE)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Super Smash Brothers - Ultimate](https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate) | 2018 |  Nintendo Switch  |    [Longplay](https://www.youtube.com/watch?v=663UvTXbzbM)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Street Fighter 6](https://en.wikipedia.org/wiki/Street_Fighter_6)                          | 2023 |   Playstation 5   | [Gameplay](https://youtu.be/l9seXOvHU5M?si=CqGKp02dO0aXne_7) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
 
 
 ### Tower Defense
@@ -354,12 +357,14 @@
 
 ### Other
 
-| Game                                                                  | Year |  System  |                          Video                          |                                       Genre                                      |
-|-----------------------------------------------------------------------|:----:|:--------:|:-------------------------------------------------------:|:--------------------------------------------------------------------------------:|
-| [Pacman](https://en.wikipedia.org/wiki/Pac-Man)                       | 1980 |    PC    | [Gameplay](https://www.youtube.com/watch?v=dScq4P5gn4A) |          [Maze](https://en.wikipedia.org/wiki/List_of_maze_video_games)          |
-| [Duck Hunt](https://en.wikipedia.org/wiki/Duck_Hunt)                  | 1984 | Nintendo | [Longplay](https://www.youtube.com/watch?v=jBDNsaWiT8Q) |       [Light Gun Shooter](https://en.wikipedia.org/wiki/Light_gun_shooter)       |
-| [Pogs](https://en.wikipedia.org/wiki/Milk_caps_%28game%29)            | 1991 |   Pogs   | [Gameplay](https://www.youtube.com/watch?v=l3MwDOiXo38) |      [Collectible game](https://en.wikipedia.org/wiki/Collectible_card_game)     |
-| [Full Tilt Pinball](https://en.wikipedia.org/wiki/Full_Tilt!_Pinball) | 1995 |    PC    |   [Video](https://www.youtube.com/watch?v=7Zi7kCqtN1M)  |                 [Pinball](https://en.wikipedia.org/wiki/Pinball)                 |
-| [Twisted Metal 2](https://en.wikipedia.org/wiki/Twisted_Metal_2)      | 1996 |    PC    | [Gameplay](https://www.youtube.com/watch?v=VU3maZLZlGM) | [Vehicular Combat](https://en.wikipedia.org/wiki/List_of_vehicular_combat_games) |
-| [Fruit Ninja](https://en.wikipedia.org/wiki/Fruit_Ninja)              | 2010 |  Mobile  | [Gameplay](https://www.youtube.com/watch?v=3bdBToxbGqg) |                                   I don't know                                   |
-| [Cookie Clicker](https://en.wikipedia.org/wiki/Cookie_Clicker)        | 2013 |  Mobile  | [Gameplay](https://www.youtube.com/watch?v=RHrUj7W3Lwg) |             [Clicker](https://en.wikipedia.org/wiki/Incremental_game)            |
+
+| Game                                                                  | Year |  System  |                            Video                            |                                       Genre                                      |
+|-----------------------------------------------------------------------|:----:|:--------:|:-----------------------------------------------------------:|:--------------------------------------------------------------------------------:|
+| [Pacman](https://en.wikipedia.org/wiki/Pac-Man)                       | 1980 |    PC    |   [Gameplay](https://www.youtube.com/watch?v=dScq4P5gn4A)   |          [Maze](https://en.wikipedia.org/wiki/List_of_maze_video_games)          |
+| [Duck Hunt](https://en.wikipedia.org/wiki/Duck_Hunt)                  | 1984 | Nintendo |   [Longplay](https://www.youtube.com/watch?v=jBDNsaWiT8Q)   |       [Light Gun Shooter](https://en.wikipedia.org/wiki/Light_gun_shooter)       |
+| [Pogs](https://en.wikipedia.org/wiki/Milk_caps_%28game%29)            | 1991 |   Pogs   |   [Gameplay](https://www.youtube.com/watch?v=l3MwDOiXo38)   |      [Collectible game](https://en.wikipedia.org/wiki/Collectible_card_game)     |
+| [Full Tilt Pinball](https://en.wikipedia.org/wiki/Full_Tilt!_Pinball) | 1995 |    PC    |     [Video](https://www.youtube.com/watch?v=7Zi7kCqtN1M)    |                 [Pinball](https://en.wikipedia.org/wiki/Pinball)                 |
+| [Twisted Metal 2](https://en.wikipedia.org/wiki/Twisted_Metal_2)      | 1996 |    PC    |   [Gameplay](https://www.youtube.com/watch?v=VU3maZLZlGM)   | [Vehicular Combat](https://en.wikipedia.org/wiki/List_of_vehicular_combat_games) |
+| [Fruit Ninja](https://en.wikipedia.org/wiki/Fruit_Ninja)              | 2010 |  Mobile  |   [Gameplay](https://www.youtube.com/watch?v=3bdBToxbGqg)   |                                   I don't know                                   |
+| [Zombies, Run!](https://en.wikipedia.org/wiki/Zombies,_Run!)          | 2012 |  Mobile  | [Trailer](https://youtu.be/xlRgBvYFxTo?si=UgohclaTloWAj7dG) |               [Fitness](https://en.wikipedia.org/wiki/Fitness_game)              |
+| [Cookie Clicker](https://en.wikipedia.org/wiki/Cookie_Clicker)        | 2013 |  Mobile  |   [Gameplay](https://www.youtube.com/watch?v=RHrUj7W3Lwg)   |             [Clicker](https://en.wikipedia.org/wiki/Incremental_game)            |
