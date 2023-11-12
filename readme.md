@@ -85,7 +85,7 @@
 ### Fighting
 
 | Game                                                                                        | Year |       System      |                             Video                            |                          Genre                          |
-|---------------------------------------------------------------------------------------------|:----:|:-----------------:|:------------------------------------------------------------:|:-------------------------------------------------------:|
+|---------------------------------------------------------------------------------------------|------|:-----------------:|:------------------------------------------------------------:|:-------------------------------------------------------:|
 | [Mortal Kombat 1](https://en.wikipedia.org/wiki/Mortal_Kombat_%281992_video_game%29)        | 1992 |    Sega Genesis   |    [Longplay](https://www.youtube.com/watch?v=RiwMEI2wNxQ)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
 | [Samurai Showdown](https://en.wikipedia.org/wiki/Samurai_Shodown_%281993_video_game%29)     | 1993 |    Sega Genesis   |    [Longplay](https://www.youtube.com/watch?v=-rzUx9cnG7g)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
 | [Eternal Champions](https://en.wikipedia.org/wiki/Eternal_Champions)                        | 1993 |    Sega Genesis   |    [Longplay](https://www.youtube.com/watch?v=8VEsAIYJYnY)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
@@ -100,8 +100,11 @@
 | [Dead or Alive 2](https://en.wikipedia.org/wiki/Dead_or_Alive_2)                            | 2000 |     Dreamcast     |    [Longplay](https://www.youtube.com/watch?v=JtkLFdui8Vo)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
 | [Marvel vs Capcom 2](https://en.wikipedia.org/wiki/Marvel_vs._Capcom_2:_New_Age_of_Heroes)  | 2000 |     Dreamcast     |    [Longplay](https://www.youtube.com/watch?v=i4El-7Skmgw)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
 | [Super Smash Brothers - Melee](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee)       | 2001 | Nintendo GameCube |    [Longplay](https://www.youtube.com/watch?v=f6UGXcqRuiE)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Tekken 7](https://en.wikipedia.org/wiki/Tekken_7)                                          | 2015 |   Playstation 4   | [Gameplay](https://youtu.be/mrzmlyOQW5c?si=_235ZtmI4CHeXvJg) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
 | [Super Smash Brothers - Ultimate](https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate) | 2018 |  Nintendo Switch  |    [Longplay](https://www.youtube.com/watch?v=663UvTXbzbM)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Soul Caliber 6](https://en.wikipedia.org/wiki/Soulcalibur_VI)                              | 2018 |   Playstation 5   | [Gameplay](https://youtu.be/noGeWEG_8LA?si=E8qVxYmdPkP-i_ed) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
 | [Street Fighter 6](https://en.wikipedia.org/wiki/Street_Fighter_6)                          | 2023 |   Playstation 5   | [Gameplay](https://youtu.be/l9seXOvHU5M?si=CqGKp02dO0aXne_7) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Mortal Kombat](https://en.wikipedia.org/wiki/Mortal_Kombat_1)                              | 2023 |   Playstation 5   | [Gameplay](https://youtu.be/43lNIjYvDKQ?si=A4gbGd71OOYxz8Ls) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
 
 
 ### Tower Defense
@@ -127,12 +130,13 @@
 
 ### Beat 'em up
 
-| Game                                                                                                             | Year |    System    |                          Video                          |                            Genre                           |
-|------------------------------------------------------------------------------------------------------------------|:----:|:------------:|:-------------------------------------------------------:|:----------------------------------------------------------:|
-| [Streets of Rage 2](https://en.wikipedia.org/wiki/Streets_of_Rage_2)                                             | 1992 | Sega Genesis | [Longplay](https://www.youtube.com/watch?v=KG7MvthfOxY) | [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up) |
-| [Teenage Mutant Ninja Turtles](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_The_Hyperstone_Heist) | 1992 | Sega Genesis | [Longplay](https://www.youtube.com/watch?v=CRQOYZin6Bc) | [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up) |
-| [Battletoads / Double Dragon](https://en.wikipedia.org/wiki/Battletoads/Double_Dragon)                           | 1993 | Sega Genesis | [Longplay](https://www.youtube.com/watch?v=Fhu-VjBH1cg) | [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up) |
-| [Streets of Rage 4](https://en.wikipedia.org/wiki/Streets_of_Rage_4)                                             | 2020 |      PC      | [Gameplay](https://www.youtube.com/watch?v=-Jw6wK4GJds) | [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up) |
+| Game                                                                                                                                 | Year |     System    |                             Video                            |                            Genre                           |
+|--------------------------------------------------------------------------------------------------------------------------------------|------|:-------------:|:------------------------------------------------------------:|:----------------------------------------------------------:|
+| [Streets of Rage 2](https://en.wikipedia.org/wiki/Streets_of_Rage_2)                                                                 | 1992 |  Sega Genesis |    [Longplay](https://www.youtube.com/watch?v=KG7MvthfOxY)   | [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up) |
+| [Teenage Mutant Ninja Turtles](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_The_Hyperstone_Heist)                     | 1992 |  Sega Genesis |    [Longplay](https://www.youtube.com/watch?v=CRQOYZin6Bc)   | [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up) |
+| [Battletoads / Double Dragon](https://en.wikipedia.org/wiki/Battletoads/Double_Dragon)                                               | 1993 |  Sega Genesis |    [Longplay](https://www.youtube.com/watch?v=Fhu-VjBH1cg)   | [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up) |
+| [Streets of Rage 4](https://en.wikipedia.org/wiki/Streets_of_Rage_4)                                                                 | 2020 |       PC      |    [Gameplay](https://www.youtube.com/watch?v=-Jw6wK4GJds)   | [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up) |
+| [Teenage Mutant Ninja Turtles: Shredder's Revenge](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Shredder%27s_Revenge) | 2022 | Playstation 5 | [Longplay](https://youtu.be/Ak6ZWnmye2g?si=ndG6ZVih2D0SmuBG) | [Beat 'em up](https://en.wikipedia.org/wiki/Beat_%27em_up) |
 
 
 ### MMO
