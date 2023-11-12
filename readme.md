@@ -104,7 +104,7 @@
 | [Super Smash Brothers - Ultimate](https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate) | 2018 |  Nintendo Switch  |    [Longplay](https://www.youtube.com/watch?v=663UvTXbzbM)   | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
 | [Soul Caliber 6](https://en.wikipedia.org/wiki/Soulcalibur_VI)                              | 2018 |   Playstation 5   | [Gameplay](https://youtu.be/noGeWEG_8LA?si=E8qVxYmdPkP-i_ed) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
 | [Street Fighter 6](https://en.wikipedia.org/wiki/Street_Fighter_6)                          | 2023 |   Playstation 5   | [Gameplay](https://youtu.be/l9seXOvHU5M?si=CqGKp02dO0aXne_7) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
-| [Mortal Kombat](https://en.wikipedia.org/wiki/Mortal_Kombat_1)                              | 2023 |   Playstation 5   | [Gameplay](https://youtu.be/43lNIjYvDKQ?si=A4gbGd71OOYxz8Ls) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
+| [Mortal Kombat 1](https://en.wikipedia.org/wiki/Mortal_Kombat_1)                            | 2023 |   Playstation 5   | [Gameplay](https://youtu.be/43lNIjYvDKQ?si=A4gbGd71OOYxz8Ls) | [Fighting](https://en.wikipedia.org/wiki/Fighting_game) |
 
 
 ### Tower Defense
