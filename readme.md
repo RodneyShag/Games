@@ -152,6 +152,7 @@
 | Game                                                                         | Year |     System     |                            Video                            |                                        Genre                                        |
 |------------------------------------------------------------------------------|:----:|:--------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
 | [Tetris](https://en.wikipedia.org/wiki/Tetris)                               | 1985 |       PC       |   [Longplay](https://www.youtube.com/watch?v=X93SdCT0goE)   |              [Puzzle](https://en.wikipedia.org/wiki/Puzzle_video_game)              |
+| [Wheel of Fortune](https://www.youtube.com/watch?v=VAfWlOqHqQQ)              | 1987 |       PC       |   [Longplay](https://www.youtube.com/watch?v=VAfWlOqHqQQ)   |              [Puzzle](https://en.wikipedia.org/wiki/Puzzle_video_game)              |
 | [Chip's Challenge](https://en.wikipedia.org/wiki/Chip%27s_Challenge)         | 1989 |       PC       |   [Longplay](https://www.youtube.com/watch?v=UryCuGANc4o)   |              [Puzzle](https://en.wikipedia.org/wiki/Puzzle_video_game)              |
 | [Microsoft Minesweeper](https://en.wikipedia.org/wiki/Microsoft_Minesweeper) | 1990 |       PC       |   [Longplay](https://www.youtube.com/watch?v=3ij476hcoes)   |              [Puzzle](https://en.wikipedia.org/wiki/Puzzle_video_game)              |
 | [Taipei](https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack)         | 1990 |       PC       |   [Longplay](https://www.youtube.com/watch?v=y97wcs6rezQ)   |              [Puzzle](https://en.wikipedia.org/wiki/Puzzle_video_game)              |
@@ -183,6 +184,7 @@
 | [Dominion](https://en.wikipedia.org/wiki/Dominion_%28card_game%29)                                         |                                                                           2008                                                                          |  Cards |                 [Rules](https://www.youtube.com/watch?v=5jNGpgdMums)                 | [Cards](https://en.wikipedia.org/wiki/Card_game) |
 | [Dixit](https://en.wikipedia.org/wiki/Dixit_(board_game))                                                  |                                                                           2008                                                                          |  Cards | [Rules](https://ndsslibraryblog.files.wordpress.com/2015/12/dixit-rules-english.pdf) | [Cards](https://en.wikipedia.org/wiki/Card_game) |
 | [Hearthstone](https://en.wikipedia.org/wiki/Hearthstone)                                                   |                                                                           2014                                                                          |   PC   |                [Gameplay](https://www.youtube.com/watch?v=ymuVLuVlsOU)               | [Cards](https://en.wikipedia.org/wiki/Card_game) |
+| [Avocado Smash](https://boardgamegeek.com/boardgame/261831/avocado-smash)                                  |                                                                           2018                                                                          |  Cards |                 [Rules](https://www.youtube.com/watch?v=9U21HQ6EB_8)                 | [Cards](https://en.wikipedia.org/wiki/Card_game) |
 
 
 ### Board
@@ -340,6 +342,7 @@
 | [Arizona Sunshine](https://en.wikipedia.org/wiki/Arizona_Sunshine)                 | 2016 |      VR     |   [Longplay](https://www.youtube.com/watch?v=v_XQNCO8W3o)  | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
 | [SuperHot VR](https://en.wikipedia.org/wiki/Superhot)                              | 2016 |      VR     |   [Gameplay](https://www.youtube.com/watch?v=KuGz6IKldZI)  | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
 | [Doom Eternal](https://en.wikipedia.org/wiki/Doom_Eternal)                         | 2020 |      PC     | [4K Gameplay](https://www.youtube.com/watch?v=y7TcosmxL7E) | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
+| [Overwatch 2](https://en.wikipedia.org/wiki/Overwatch_2)                           | 2023 |      PC     |   [Gameplay](https://www.youtube.com/watch?v=lkTHRdZzl1o)  | [1st-person shooter](https://en.wikipedia.org/wiki/First-person_shooter) |
 
 
 ### Racing
